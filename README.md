@@ -1,2 +1,3 @@
 # slido-calendars
-Slido interview task
+Slido interview task!
+Cool!
